@@ -1,0 +1,9 @@
+build/
+.cache/
+compile_commands.json
+*.db
+*.db-journal
+.DS_Store
+.vscode/
+.idea/
+*.zip
