@@ -3,7 +3,7 @@
 Ideas for taking the project beyond a first release. Each one is chosen because it teaches
 something employers look for. Difficulty is a rough guide (1 = an evening, 3 = a weekend or more).
 
-| Idea | What you build | What it shows | Difficulty |
+| Idea | What I build | What it shows | Difficulty |
 |---|---|---|---|
 | **Due dates and fines** | Add a due date to loans; flag overdue books; compute a fine | Domain modeling, a schema change, date handling | 1 |
 | **Better search** | Search books by part of the name or purpose; use SQLite's FTS5 full-text search for ranking | SQL, indexes, query design | 2 |
