@@ -24,6 +24,6 @@ something employers look for. Difficulty is a rough guide (1 = an evening, 3 = a
 ## Suggested order
 
 1. Due dates and fines (small, and uses the loan rules)
-2. Dockerfile and clang-tidy in CI (quick wins that look good on a portfolio)
+2. Dockerfile and clang-tidy in CI 
 3. Role-based access
-4. REST API (the most impressive demonstration of the layered design)
+4. REST API 
